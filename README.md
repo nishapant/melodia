@@ -30,5 +30,7 @@ install these libraries using pip (i would also recommend setting up a virtual e
 ## Findings
 <p align="center">
   <img src="nisha_word_cloud.png" alt="spotify word cloud" width="300"> 
-  <img src="nisha_songs_analysis.png" alt="spotify word cloud" width="300"> 
+</p>
+<p align="center">
+ <img src="nisha_songs_analysis.png" alt="spotify word cloud" width="475"> 
 </p>
