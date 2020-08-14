@@ -30,7 +30,9 @@ after cleaning up the data* returned from the lyrics from over 250 songs (mainly
 <p align="center">
  <img src="nisha_songs_analysis.png" alt="spotify word cloud" width="475"> 
 </p>
+<p>
 "love" was by far the most frequent word used in the songs i analyzed with "baby" close behind, as many rappers discuss love and relationships in their music. below is a more fun way to view the same information in a word cloud, enjoy :)
+</p>
 <p align="center">
   <img src="nisha_word_cloud.png" alt="spotify word cloud" width="300"> 
 </p>
