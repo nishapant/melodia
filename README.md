@@ -12,8 +12,6 @@
 - __emotion analysis:__ analyze the overwhelming emotion from a spotify playlist or your top 50 spotify songs
 - __frequency statistics:__ view data on the most frequent words used in specific songs or playlists
 
-## Motivation
-
 ## Setup
 - __install python and libraries:__ make sure you have <a href="https://www.python.org/downloads/">python3</a> installed on your computer <br />
 install these libraries using pip (i would also recommend setting up a virtual envrionment): </br>
@@ -37,5 +35,6 @@ after cleaning up the data* returned from the lyrics from over 250 songs (mainly
   <img src="nisha_word_cloud.png" alt="spotify word cloud" width="300"> 
 </p>
 
+however, this data doesn't have many controls and only really tells us about my listening preferences. i created simliar graphs with more controlled data using spotify playlists. 
 
-* cleaning data included removing stop words, special characters, profanity, and contractions
+\* cleaning data included removing stop words, special characters, profanity, and contractions
