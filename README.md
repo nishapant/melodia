@@ -28,9 +28,14 @@ install these libraries using pip (i would also recommend setting up a virtual e
 - __run:__ run index.py and you are all set!
 
 ## Findings
-<p align="center">
-  <img src="nisha_word_cloud.png" alt="spotify word cloud" width="300"> 
-</p>
+after cleaning up the data* returned from the lyrics from over 250 songs (mainly rap and r&b) from my spotify library, i came up with this bar graph with the most frequent words used in the songs. 
 <p align="center">
  <img src="nisha_songs_analysis.png" alt="spotify word cloud" width="475"> 
 </p>
+"love" was by far the most frequent word used in the songs i analyzed with "baby" close behind, as many rappers discuss love and relationships in their music. below is a more fun way to view the same information in a word cloud, enjoy :)
+<p align="center">
+  <img src="nisha_word_cloud.png" alt="spotify word cloud" width="300"> 
+</p>
+
+
+* cleaning data included removing stop words, special characters, profanity, and contractions
