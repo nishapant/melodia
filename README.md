@@ -26,7 +26,7 @@ install these libraries using pip (i would also recommend setting up a virtual e
 - __run:__ run index.py and you are all set!
 
 ## Findings
-after cleaning up the data* returned from the lyrics from over 250 songs (mainly rap and r&b) from my spotify library, i came up with this bar graph with the most frequent words used in the songs. 
+after cleaning up the data* returned from the lyrics from over 250 songs (mainly rap and r&b — songs are listed in songs.txt) from my spotify library, i came up with this bar graph with the most frequent words used in the songs. 
 <p align="center">
  <img src="nisha_songs_analysis.png" alt="spotify word cloud" width="475"> 
 </p>
