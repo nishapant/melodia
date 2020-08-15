@@ -48,7 +48,7 @@ i created simliar graphs with more controlled data using featured spotify playli
   <img src="word_cloud_soft_pop.png" alt="spotify word cloud" width="350">
 </p>
 
-additionally, the overall emotions of the playlists hugely differed. the rap caviar playlist seemed to have a fear overtone, whereas the soft pop hits playlist were more happy. 
+additionally, the overall emotions of the playlists hugely differed. the rap caviar playlist seemed to have a fear overtone, whereas the soft pop hits playlist had a happy overtone. 
 
 <p align="center">
     <img src="spotify_rap_caviar.png" alt="spotify word cloud" width="350">
