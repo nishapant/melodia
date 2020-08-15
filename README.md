@@ -37,6 +37,22 @@ after cleaning up the data* returned from the lyrics from over 250 songs (mainly
   <img src="nisha_word_cloud.png" alt="spotify word cloud" width="300"> 
 </p>
 
-however, this data doesn't have many controls and only really tells us about my listening preferences. i created simliar graphs with more controlled data using spotify playlists. 
+however, this data doesn't have many controls and only really tells us about my listening preferences. i created simliar graphs with more controlled data using spotify playlists. analyzing the data from the "Rap Caviar" playlist and the "Soft Pop Hits" playlist, it seems that "love" is a common topic amongst these two genres. in contrast, the rap playlist had common words such as "rags", "riches", and "money" whereas the soft pop playlist used words like "state", "power", and "constitution".
+<p align="center">
+   <img src="rap_caviar_data.png" alt="spotify word cloud" width="450"> 
+   <img src="rap_caviar_wordcloud.png" alt="spotify word cloud" width=350"> 
+</p>
+
+<p align="center">
+    <img src="soft_pop_hits.png" alt="spotify word cloud" width="450">
+  <img src="word_cloud_soft_pop.png" alt="spotify word cloud" width="350">
+</p>
+
+additionally, the overall emotions of the playlists hugely differed. the rap caviar playlist seemed to have a fear overtone, whereas the soft pop hits playlist were more happy. 
+
+<p align="center">
+    <img src="spotify_rap_caviar.png" alt="spotify word cloud" width="350">
+    <img src="spotify_soft_pop.png" alt="spotify word cloud" width="350">
+</p>
 
 \* cleaning data included removing stop words, special characters, profanity, and contractions
