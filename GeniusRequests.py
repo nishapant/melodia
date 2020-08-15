@@ -1,6 +1,7 @@
 import lyricsgenius
 
 GENIUS_CLIENT_ACCESS_TOKEN = "INSERT CLIENT ACCESS TOKEN HERE"
+
 genius = lyricsgenius.Genius(GENIUS_CLIENT_ACCESS_TOKEN)
 
 # returns the lyrics from a given song and artist

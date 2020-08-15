@@ -6,6 +6,7 @@ class SpotipyRequests:
     SPOTIPY_CLIENT_ID = "INSERT CLIENT ID HERE"
     SPOTIPY_CLIENT_SECRET = "INSERT CLIENT SECRET HERE"
     SPOTIPY_REDIRECT_URI = "INSERT REDERICT URI HERE"
+
     scope = "user-library-read user-top-read"
 
     sp = None
@@ -24,4 +25,7 @@ class SpotipyRequests:
 
     def get_user_playlist(self, offset):
         playlist_id = self.sp.current_user_playlists(limit=1, offset=offset)['items'][0]['id']
+        return self.sp.playlist(playlist_id)
+
+    def get_playlist_by_id(self, playlist_id):
         return self.sp.playlist(playlist_id)
